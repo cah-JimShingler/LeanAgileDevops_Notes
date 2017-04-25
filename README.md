@@ -51,7 +51,7 @@ https://github.com/DiUS/pact-jvm
 
 [Experience API, Process API, System API](https://www.integsoft.cz/resources/files/anypoint-platform/API-led-connectivity-whitepaper.pdf)
 
-
+[Postel's Law - Tolerant Reader](https://martinfowler.com/bliki/TolerantReader.html)
 
 ## SpringBoot
 [Quick Start DZone](https://dzone.com/articles/spring-boot-a-quick-start?edition=271881&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-02-17)
